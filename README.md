@@ -1,0 +1,1 @@
+# Automated-Diagnosis-Model-Using-Transfer-Learning
